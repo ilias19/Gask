@@ -1,1 +1,1 @@
-Ce dossier continet le code source du projet et 2 fichiers PDF qui représente l'étude fonctionnelle et technique du projet.
+Ce dossier contient le code source du projet et 2 fichiers PDF qui représentent l'étude fonctionnelle et technique du projet.
