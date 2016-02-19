@@ -1,1 +1,1 @@
-Ce dossier contient le code source du projet et 2 fichiers PDF qui représentent l'étude fonctionnelle et technique du projet.
+Ce travail a été réalisé par Ilias IRHBOULA (F2) et Mohammed BOUFFOUSS (F2). Ce dossier contient le code source du projet et 2 fichiers PDF qui représentent l'étude fonctionnelle et technique du projet.
